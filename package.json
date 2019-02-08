@@ -1,6 +1,6 @@
 {
   "name": "warp-cable-client",
-  "version": "1.0.61",
+  "version": "1.0.62",
   "description": "A Client for the Rails Plugin Warp Cable",
   "main": "index.js",
   "scripts": {
